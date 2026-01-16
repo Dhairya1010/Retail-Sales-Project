@@ -97,26 +97,31 @@ This model can help identify orders likely to result in losses, supporting bette
 ---
 
 ## Project Structure
-retail_sales_project/
-│
-├── data/
-│ └── superstore.csv
-│
-├── src/
-│ ├── 01_load_and_clean.py
-│ ├── 03_feature_engineering.py
-│ ├── 04_model_training.py
-│ └── 04b_profitability_classification.py
-│
-├── outputs/
-│ ├── cleaned_data.csv
-│ ├── X.csv
-│ └── y.csv
-│
-├── powerbi/
-│ └── retail_sales_dashboard.pbix
-│
-└── README.md
+Project Structure
+
+retail_sales_project
+- data/
+&emsp;&emsp;superstore.csv
+- src/
+&emsp;&emsp;1_load_and_clean.py
+
+&emsp;&emsp;2_feature_engineering.py
+
+&emsp;&emsp;3a_model_training.py
+
+&emsp;&emsp;3b_profitability_classification.py
+
+- output/
+&emsp;&emsp;cleaned_data.csv
+
+&emsp;&emsp;X.csv
+
+&emsp;&emsp;y.csv
+
+- power bi/
+&emsp;&emsp;retail_sales_dashboard.pbix
+
+-README.md
 
 ---
 
