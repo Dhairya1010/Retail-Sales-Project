@@ -125,7 +125,7 @@ retail_sales_project
 
 &emsp;&emsp;retail_sales_dashboard.pbix
 
--README.md
+- README.md
 
 ---
 
