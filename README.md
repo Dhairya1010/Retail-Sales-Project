@@ -101,8 +101,10 @@ Project Structure
 
 retail_sales_project
 - data/
+
 &emsp;&emsp;superstore.csv
 - src/
+
 &emsp;&emsp;1_load_and_clean.py
 
 &emsp;&emsp;2_feature_engineering.py
@@ -112,6 +114,7 @@ retail_sales_project
 &emsp;&emsp;3b_profitability_classification.py
 
 - output/
+
 &emsp;&emsp;cleaned_data.csv
 
 &emsp;&emsp;X.csv
@@ -119,6 +122,7 @@ retail_sales_project
 &emsp;&emsp;y.csv
 
 - power bi/
+
 &emsp;&emsp;retail_sales_dashboard.pbix
 
 -README.md
